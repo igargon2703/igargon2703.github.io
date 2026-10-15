@@ -1,4 +1,3 @@
-// Ejercicio 2: array de 100 números aleatorios
 let numeros = [];
 for (let i = 0; i < 100; i++) {
   numeros.push(Math.floor(Math.random() * 101));

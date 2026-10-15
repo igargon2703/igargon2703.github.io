@@ -1,4 +1,3 @@
-// Ejercicio 1: variables de distintos tipos
 let nombre = "Ana";
 let edad = 20;
 let altura = 1.65;
